@@ -1,9 +1,8 @@
-package com.company.Consumer;
+package com.company.consumer;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Consumer;
-import java.util.stream.Stream;
 
 class Person{
     private String name;

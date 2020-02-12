@@ -1,4 +1,4 @@
-package com.company.Stream;
+package com.company.stream;
 
 import java.util.*;
 import java.util.function.Supplier;

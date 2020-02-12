@@ -1,8 +1,7 @@
-package com.company.Stream;
+package com.company.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
 import java.util.List;
 /*Stream流的常见方法*/
 /**
