@@ -23,8 +23,4 @@ public class MinDeletionsToObtainStringInRightFormat {
         }
         return Math.min(ACount, Math.min(BCount, removeNum));
     }
-
-    public static void main(String[] args) {
-
-    }
 }
